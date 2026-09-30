@@ -9,5 +9,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=YigitBerke0&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=YigitBerke0&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YigitBerke0&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
